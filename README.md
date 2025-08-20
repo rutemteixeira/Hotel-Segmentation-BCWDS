@@ -33,7 +33,7 @@ The client’s business need was to develop customer segmentation strategy for h
 
  
 ## Results
-- ** 4+1 Clusters** - Adequately interpreted for business value
+- **4+1 Clusters** - Adequately interpreted for business value
 
 ## Key Observations and Future Improvements
 - Clear trade-off between booking lead time and customer value
